@@ -16,7 +16,7 @@
  
 # Chức năng đề tài
 
-	## Ứng dụng:
+## Ứng dụng:
 		+ Quản lý xuất nhập kho (Thêm/Xóa/Sửa/Tìm kiếm)
 		+ Bán hàng
 		+ Thống Kê Doanh Thu
@@ -25,14 +25,14 @@
 		+ Quản lý ưu đãi
 		+ Quản lý hóa đơn
 		+ Thanh Toán
-	## Trang chủ (Website):
+## Trang chủ (Website):
 		+ Quản lý tài khoản nhân viên
 		+ Quản lý sản phẩm/nhà cung cấp
 		+ Quản lý ưu đãi
 		+ Tạo tài khoản
 		+ Quản lý khách hàng
 		+ Quản lý hóa đơn
-	## Ứng Dụng Trí Tuệ Nhân Tạo:
+## Ứng Dụng Trí Tuệ Nhân Tạo:
 		+ Thuật toán Apriori trong tìm kiếm sản phẩm mua kèm
   
 
