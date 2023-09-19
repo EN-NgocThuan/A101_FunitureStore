@@ -1,10 +1,10 @@
 # A101_FunitureStore
 
-Đề Tài
+# Đề Tài
 
 **Xây dựng phần mềm quản lý sản phẩm nội thất và mua bán nội thất**
  
-Thành Viên
+# Thành Viên
 
 | Mã Sinh Viên | Tên Sinh Viên | Thông Tin Liên Lạc |
 |--------------|---------------|--------------------|
@@ -14,9 +14,9 @@ Thành Viên
 
  	
  
-Chức năng đề tài
+# Chức năng đề tài
 
-	Ứng dụng:
+	## Ứng dụng:
 		+ Quản lý xuất nhập kho (Thêm/Xóa/Sửa/Tìm kiếm)
 		+ Bán hàng
 		+ Thống Kê Doanh Thu
@@ -25,14 +25,14 @@ Chức năng đề tài
 		+ Quản lý ưu đãi
 		+ Quản lý hóa đơn
 		+ Thanh Toán
-	Trang chủ (Website):
+	## Trang chủ (Website):
 		+ Quản lý tài khoản nhân viên
 		+ Quản lý sản phẩm/nhà cung cấp
 		+ Quản lý ưu đãi
 		+ Tạo tài khoản
 		+ Quản lý khách hàng
 		+ Quản lý hóa đơn
-	Ứng Dụng Trí Tuệ Nhân Tạo:
+	## Ứng Dụng Trí Tuệ Nhân Tạo:
 		+ Thuật toán Apriori trong tìm kiếm sản phẩm mua kèm
   
 
