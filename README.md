@@ -2,7 +2,7 @@
 
 Đề Tài
 
-	Xây dựng phần mềm quản lý sản phẩm nội thất và mua bán nội thất
+**Xây dựng phần mềm quản lý sản phẩm nội thất và mua bán nội thất**
  
 Thành Viên
 
