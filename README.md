@@ -6,11 +6,12 @@
  
 Thành Viên
 
-	| Mã Sinh Viên | Tên Sinh Viên | Thông Tin Liên Lạc |
-	|--------------|---------------|--------------------|
-	| 2001204728 | ***Nguyễn Thanh Phước | 0325370814 |
-	| 2001203010 | Nguyễn Chí Nguyện ||
-	| 2001207186 | Phan Cù Ngọc Thuận ||
+| Mã Sinh Viên | Tên Sinh Viên | Thông Tin Liên Lạc |
+|--------------|---------------|--------------------|
+| 2001204728 | **Nguyễn Thanh Phước** | 0325370814 |
+| 2001203010 | Nguyễn Chí Nguyện |
+| 2001207186 | Phan Cù Ngọc Thuận |
+
  	
  
 Chức năng đề tài
