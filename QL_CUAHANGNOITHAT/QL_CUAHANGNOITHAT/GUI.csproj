@@ -114,6 +114,12 @@
     <Compile Include="GUISanPham.Designer.cs">
       <DependentUpon>GUISanPham.cs</DependentUpon>
     </Compile>
+    <Compile Include="ThemNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemNhanVien.Designer.cs">
+      <DependentUpon>ThemNhanVien.cs</DependentUpon>
+    </Compile>
     <Compile Include="ThemSanPham.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -152,6 +158,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GUISanPham.resx">
       <DependentUpon>GUISanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemNhanVien.resx">
+      <DependentUpon>ThemNhanVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ThemSanPham.resx">
       <DependentUpon>ThemSanPham.cs</DependentUpon>
